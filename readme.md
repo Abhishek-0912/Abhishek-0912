@@ -8,14 +8,9 @@
 - 👯 I’m looking to collaborate on projects which improves a better living and challenge me <br>
         to learn new things at every step ahead.<br>    
 </p>
-
 <br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
