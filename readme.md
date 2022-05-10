@@ -1,6 +1,6 @@
   
 
-### <div align="left"> Hi there 👋, I'm Abhishek Vishwakarma, a full-stack developer,</div>  
+##### <div align="left"> Hi there 👋, I'm Abhishek Vishwakarma, a full-stack developer,</div>  
   <p align='left'>
 - 🔭 I’m currently working on Javascript, Django, and Flutter,<br>
 - 🌱 I’m currently learning Web3, ReactJs and Jira,<br>
@@ -10,7 +10,7 @@
 </p>
 <br/>  
 
-## My Skill Set  
+### My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
