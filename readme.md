@@ -36,7 +36,6 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" />  
