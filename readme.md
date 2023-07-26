@@ -1,9 +1,9 @@
   
 
-## <div align="left"> Hi there 👋, I'm Abhishek Vishwakarma, a full-stack developer,</div>  
+## <div align="left"> Hi there 👋, I'm Abhishek Vishwakarma, a Software Engineer from India,</div>  
   <p align='left'>
-- 🔭 I’m currently working on Javascript, Django, and Flutter,<br>
-- 🌱 I’m currently learning Web3, ReactJs and Jira,<br>
+- 🔭 I’m currently working as Software Engineer at Nerve Solutions in fintech, regtech domain<br>
+- 🌱 I’m learning Amazon Web Services, Web3 Blockchains, and ReactJs<br>
 - 📫 How to reach me <a href="mailto:mithsonabhi@gmail.com,abhishekmithailalvishwakarma@gmail.com"> mithsonabhi@gmail.com </a> <br>
 - 👯 I’m looking to collaborate on projects which improves a better living and challenge me <br>
         to learn new things at every step ahead.<br>    
